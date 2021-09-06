@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Marie-Astrid Chanteloup, aka MAC
+
+I'm a cybersecurity student in TELECOM Nancy
+
+Look me up on LinkedIn (m-a-chanteloup) or send me an email.
 
 <!--
 **PinkAstrid/PinkAstrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
